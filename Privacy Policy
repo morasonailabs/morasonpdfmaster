@@ -1,0 +1,59 @@
+# Privacy Policy for morason pdf master
+
+**Last Updated:** [05.10.2026]
+
+**OfflinePDFCompressor** (also referred to as "the App" or "MorasonPDFMaster") is a utility application designed to compress, view, and manage PDF files entirely offline. 
+
+Your privacy is our top priority. Because our app is designed to function locally on your device, **we do not collect, store, or transmit your PDF files, images, or personal data to any external servers.** 
+
+This Privacy Policy explains how we use your device's permissions and what limited data may be processed locally to provide the App's features.
+
+---
+
+## 1. Data Collection and Usage
+
+**We do not collect personal information.** 
+All core processing—including PDF compression, text recognition (OCR), and image-to-PDF conversions—is executed entirely **offline** on your device. 
+
+- **Your Files & Documents:** We do not upload your PDFs, images, or documents to any cloud server or third-party database.
+- **Your Personal Data:** We do not require you to create an account, nor do we ask for your name, email address, or phone number.
+
+## 2. Permissions Required & Why We Need Them
+
+To function properly, the App requires certain Android permissions. These are strictly used for local features:
+
+- **Storage / Media (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, READ_MEDIA_IMAGES):**
+  - *Why:* To access the PDFs and images you select for viewing, compression, or editing, and to save the processed files back to your device.
+- **Camera (CAMERA):**
+  - *Why:* To allow you to take photos of documents directly within the app to convert them into PDFs or extract text using OCR. We do not access the camera in the background.
+- **Biometric Security (USE_BIOMETRIC, USE_FINGERPRINT):**
+  - *Why:* To support local security features (such as locking the app or securing sensitive PDFs). Your biometric data (fingerprint or face scan) is processed securely by the Android OS; the App never has direct access to your biometric data.
+- **Internet & Network Access (INTERNET, ACCESS_NETWORK_STATE):**
+  - *Why:* While the App processes files offline, network permissions are requested to facilitate Google Play Services functionality, such as downloading necessary Machine Learning models (like Google ML Kit for Text Recognition) directly from Google to your device. 
+- **Foreground Service & Notifications (FOREGROUND_SERVICE, POST_NOTIFICATIONS):**
+  - *Why:* To keep the app running smoothly in the background while processing/compressing large PDFs without being killed by the Android system, and to notify you once the process is complete.
+
+## 3. Third-Party Services
+
+The App uses select third-party libraries for local on-device processing. These providers may collect anonymous usage data (like crash reports or device information) in accordance with their own privacy policies, but **they do not have access to your personal files or documents.**
+
+- **Google ML Kit (Text Recognition):** Used for extracting text from images locally. Google ML Kit may download machine learning models via Google Play Services. 
+  - [Google Privacy Policy](https://policies.google.com/privacy)
+
+## 4. Data Security
+
+Because all file processing happens locally on your Android device, the security of your documents relies on your device's security. We recommend keeping your device updated and utilizing system-level security (like a PIN, password, or biometrics) to protect your files.
+
+## 5. Children’s Privacy
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
+
+## 6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+## 7. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+**[morasonailabs@gmail.com]**
